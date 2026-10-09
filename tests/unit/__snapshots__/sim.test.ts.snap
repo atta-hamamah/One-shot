@@ -1,0 +1,9 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`simulation > golden trajectory: physics changes must be deliberate (regenerate levels if this changes) 1`] = `
+[
+  1397,
+  162.77941702812643,
+  219.85425652192407,
+]
+`;
